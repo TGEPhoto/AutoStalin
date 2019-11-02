@@ -6,7 +6,7 @@ class Communism(commands.Cog):
     def __init__(self, client):
         self.client=client
 
-    @commands.command
+    @commands.command()
     async def communism(self, ctx):
         await ctx.send('Yes, comrade?')
 
