@@ -1,1 +1,3 @@
 # AutoStalin
+
+Project is abandoned.
